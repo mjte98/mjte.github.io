@@ -18,6 +18,8 @@
 body {
   background: #111;
   color: #eee;
+  display: flex;
+  flex-direction: column;
 }
 
 #welcome {
